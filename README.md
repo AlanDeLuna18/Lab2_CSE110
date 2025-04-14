@@ -2,4 +2,4 @@
 
 
 
-https://alandeluna18.github.io/Lab2_CSE110/ 
+https://alandeluna18.github.io/Lab2_CSE110/
